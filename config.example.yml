@@ -1,0 +1,4 @@
+connector:
+  name: sqlite
+  parameter:
+    - ../todo.db
