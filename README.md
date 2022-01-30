@@ -1,4 +1,9 @@
-#Installation
+# Simple Todo
+Simple and extensible todo list
+
+New connectors can be added to save the todo`s to an other storage
+
+# Installation
 
 `poetry install`
 
